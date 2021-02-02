@@ -7,7 +7,7 @@ This repository stores example code and exercises pertaining to an Introduction 
 - [General Computing Tips](https://github.com/CompPhyloLSU-Spr21/IntroProbability/blob/main/ComputingTips.md)
 - [Overview of Paths](https://github.com/CompPhyloLSU-Spr21/IntroProbability/blob/main/Paths.md)
 
-## Exercises
+## RevBayes Exercises
 
 - [Sampling](https://github.com/CompPhyloLSU-Spr21/IntroProbability/blob/main/Sampling.md)
 - [Frequentist Probability](https://github.com/CompPhyloLSU-Spr21/IntroProbability/blob/main/FrequentistProbability.md)
