@@ -2,7 +2,7 @@
 
 ## Filesystem Structure
 
-The base of the filesystem in Unix-based operating systems (like Linux and Mac OS, which we will focus on exclusively in this workshop) is indicated with a single forward slash (`/`) and is known as the filesystem's root. The location of all files and folders can be written with a __path (i.e., address) that starts at the root__. Folders are hierarchical, so paths to highly nested folders will need to include all parent folders.
+The base of the filesystem in Unix-based operating systems (like Linux and Mac OS) is indicated with a single forward slash (`/`) and is known as the filesystem's root. The location of all files and folders can be written with a __path (i.e., address) that starts at the root__. Folders are hierarchical, so paths to highly nested folders will need to include all parent folders.
   
 ![ExampleMacFilesystem](https://github.com/IntroPhylogenomics/ComputingFundamentals/blob/master/exampleFilesystem.png)
   
